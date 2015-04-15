@@ -35,6 +35,6 @@ public class LapTest1
     * count words of content
     * write updated content into "data2.txt"
     */
- public static String task3(Strinh filepath){
+ public static String task3(String filepath){
     }
 }
